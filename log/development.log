@@ -1,0 +1,190 @@
+
+
+Started POST "/ivr/welcome" for 52.87.163.159 at 2017-06-19 12:21:55 -0400
+Processing by TwilioController#ivr_welcome as HTML
+  Parameters: {"Called"=>"+14433962103", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CAb14a97cdede8c271e319e5749c786af2", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"ringing", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.0ms)
+Completed 200 OK in 19ms (Views: 9.7ms)
+
+
+Started POST "/ivr/welcome" for 34.201.91.145 at 2017-06-19 12:23:30 -0400
+Processing by TwilioController#ivr_welcome as HTML
+  Parameters: {"Called"=>"+14433962103", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CAee12244ba6d8b1a7fbd775e2aa17b900", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"ringing", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.3ms)
+
+
+Started POST "/ivr/selection" for 107.23.215.227 at 2017-06-19 12:23:56 -0400
+Processing by TwilioController#menu_selection as HTML
+  Parameters: {"msg"=>"Gather End", "Called"=>"+14433962103", "Digits"=>"3", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CAee12244ba6d8b1a7fbd775e2aa17b900", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"in-progress", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.2ms)
+
+
+Started POST "/ivr/planets" for 54.210.186.151 at 2017-06-19 12:24:26 -0400
+Processing by TwilioController#planet_selection as HTML
+  Parameters: {"msg"=>"Gather End", "Called"=>"+14433962103", "Digits"=>"5", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CAee12244ba6d8b1a7fbd775e2aa17b900", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"in-progress", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.3ms)
+
+
+Started POST "/ivr/welcome" for 54.90.129.92 at 2017-06-19 12:41:46 -0400
+Processing by TwilioController#ivr_welcome as HTML
+  Parameters: {"Called"=>"+14433962103", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CAfe7f54e0ab8953965e62679ca8134e3a", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"ringing", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.0ms)
+Completed 200 OK in 18ms (Views: 8.6ms)
+
+
+Started POST "/ivr/selection" for 54.208.16.217 at 2017-06-19 12:42:13 -0400
+Processing by TwilioController#menu_selection as HTML
+  Parameters: {"msg"=>"Gather End", "Called"=>"+14433962103", "Digits"=>"3", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CAfe7f54e0ab8953965e62679ca8134e3a", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"in-progress", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+Completed 500 Internal Server Error in 8ms
+
+NoMethodError (undefined method `Play' for #<TwilioController:0x007ffe492e5be0>):
+  app/controllers/twilio_controller.rb:61:in `connect_info'
+  app/controllers/twilio_controller.rb:31:in `menu_selection'
+
+
+  Rendered /usr/local/lib/ruby/gems/2.3.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.8ms)
+  Rendered /usr/local/lib/ruby/gems/2.3.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /usr/local/lib/ruby/gems/2.3.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /usr/local/lib/ruby/gems/2.3.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (56.1ms)
+
+
+Started POST "/ivr/welcome" for 54.82.233.155 at 2017-06-19 12:48:55 -0400
+
+SyntaxError (/Users/Joseph/Desktop/Projects/ivr-phone-tree-rails/app/controllers/twilio_controller.rb:91: syntax error, unexpected keyword_end, expecting end-of-input):
+  app/controllers/twilio_controller.rb:91: syntax error, unexpected keyword_end, expecting end-of-input
+
+
+  Rendered /usr/local/lib/ruby/gems/2.3.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.6ms)
+  Rendered /usr/local/lib/ruby/gems/2.3.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /usr/local/lib/ruby/gems/2.3.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (12.1ms)
+  Rendered /usr/local/lib/ruby/gems/2.3.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (65.9ms)
+
+
+Started POST "/ivr/welcome" for 54.146.148.205 at 2017-06-19 12:51:18 -0400
+Processing by TwilioController#ivr_welcome as HTML
+  Parameters: {"Called"=>"+14433962103", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CA3a18d36c251c1716e98f89852898a5f6", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"ringing", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.0ms)
+Completed 200 OK in 17ms (Views: 6.5ms)
+
+
+Started POST "/ivr/selection" for 54.89.189.207 at 2017-06-19 12:52:00 -0400
+Processing by TwilioController#menu_selection as HTML
+  Parameters: {"msg"=>"Gather End", "Called"=>"+14433962103", "Digits"=>"3", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CA3a18d36c251c1716e98f89852898a5f6", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"in-progress", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+Completed 500 Internal Server Error in 6ms
+
+NoMethodError (undefined method `Play' for #<TwilioController:0x007ffba0df1b48>):
+  app/controllers/twilio_controller.rb:61:in `connect_info'
+  app/controllers/twilio_controller.rb:31:in `menu_selection'
+
+
+  Rendered /usr/local/lib/ruby/gems/2.3.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.8ms)
+  Rendered /usr/local/lib/ruby/gems/2.3.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /usr/local/lib/ruby/gems/2.3.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.1ms)
+  Rendered /usr/local/lib/ruby/gems/2.3.0/gems/actionpack-4.1.6/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (66.5ms)
+
+
+Started POST "/ivr/welcome" for 54.226.235.123 at 2017-06-19 12:52:42 -0400
+Processing by TwilioController#ivr_welcome as HTML
+  Parameters: {"Called"=>"+14433962103", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CA710d963e77dd139fcd3729fe5fc92fce", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"ringing", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.1ms)
+Completed 200 OK in 24ms (Views: 11.6ms)
+
+
+Started POST "/ivr/selection" for 52.54.84.206 at 2017-06-19 12:52:48 -0400
+Processing by TwilioController#menu_selection as HTML
+  Parameters: {"msg"=>"Gather End", "Called"=>"+14433962103", "Digits"=>"3", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CA710d963e77dd139fcd3729fe5fc92fce", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"in-progress", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms)
+
+
+Started POST "/ivr/planets" for 54.145.23.149 at 2017-06-19 12:53:27 -0400
+Processing by TwilioController#planet_selection as HTML
+  Parameters: {"msg"=>"Gather End", "Called"=>"+14433962103", "Digits"=>"7", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CA710d963e77dd139fcd3729fe5fc92fce", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"in-progress", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.2ms)
+
+
+Started POST "/ivr/welcome" for 54.144.163.39 at 2017-06-19 12:53:30 -0400
+Processing by TwilioController#ivr_welcome as HTML
+  Parameters: {"Called"=>"+14433962103", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CA710d963e77dd139fcd3729fe5fc92fce", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"in-progress", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.2ms)
+
+
+Started POST "/ivr/welcome" for 54.145.23.149 at 2017-06-19 12:56:41 -0400
+Processing by TwilioController#ivr_welcome as HTML
+  Parameters: {"Called"=>"+14433962103", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CAae2d952583c2da4c16ccea138bc6f746", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"ringing", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.0ms)
+Completed 200 OK in 19ms (Views: 6.7ms)
+
+
+Started POST "/ivr/selection" for 54.161.192.80 at 2017-06-19 12:57:05 -0400
+Processing by TwilioController#menu_selection as HTML
+  Parameters: {"msg"=>"Gather End", "Called"=>"+14433962103", "Digits"=>"3", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CAae2d952583c2da4c16ccea138bc6f746", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"in-progress", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms)
+
+
+Started POST "/ivr/planets" for 52.206.103.163 at 2017-06-19 12:57:38 -0400
+Processing by TwilioController#planet_selection as HTML
+  Parameters: {"msg"=>"Gather End", "Called"=>"+14433962103", "Digits"=>"3", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CAae2d952583c2da4c16ccea138bc6f746", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"in-progress", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.2ms)
+
+
+Started POST "/ivr/welcome" for 54.204.204.130 at 2017-06-19 12:57:40 -0400
+Processing by TwilioController#ivr_welcome as HTML
+  Parameters: {"Called"=>"+14433962103", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CAae2d952583c2da4c16ccea138bc6f746", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"in-progress", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.2ms)
+
+
+Started POST "/ivr/welcome" for 52.206.103.163 at 2017-06-19 12:58:35 -0400
+Processing by TwilioController#ivr_welcome as HTML
+  Parameters: {"Called"=>"+14433962103", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CAbd8cdf0c10dedcacb561dc3d7bb8693d", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"ringing", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.0ms)
+Completed 200 OK in 21ms (Views: 11.3ms)
+
+
+Started POST "/ivr/selection" for 52.206.103.163 at 2017-06-19 12:58:59 -0400
+Processing by TwilioController#menu_selection as HTML
+  Parameters: {"msg"=>"Gather End", "Called"=>"+14433962103", "Digits"=>"3", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CAbd8cdf0c10dedcacb561dc3d7bb8693d", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"in-progress", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 0.3ms)
+
+
+Started POST "/ivr/planets" for 54.236.19.240 at 2017-06-19 12:59:13 -0400
+Processing by TwilioController#planet_selection as HTML
+  Parameters: {"msg"=>"Gather End", "Called"=>"+14433962103", "Digits"=>"4", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"MD", "ToZip"=>"21113", "CallSid"=>"CAbd8cdf0c10dedcacb561dc3d7bb8693d", "To"=>"+14433962103", "CallerZip"=>"21113", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"in-progress", "From"=>"+14437044635", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"ODENTON", "Caller"=>"+14437044635", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"ODENTON", "CalledState"=>"MD", "FromZip"=>"21113", "FromState"=>"MD"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.3ms)
+
+
+Started POST "/ivr/welcome" for 54.82.233.155 at 2017-06-19 13:16:40 -0400
+Processing by TwilioController#ivr_welcome as HTML
+  Parameters: {"Called"=>"+14433962103", "ToState"=>"MD", "CallerCountry"=>"US", "Direction"=>"inbound", "CallerState"=>"NC", "ToZip"=>"21113", "CallSid"=>"CA32225f8b6d1c5b5c58dc979795668b2e", "To"=>"+14433962103", "CallerZip"=>"27405", "ToCountry"=>"US", "ApiVersion"=>"2010-04-01", "CalledZip"=>"21113", "CalledCity"=>"ODENTON", "CallStatus"=>"ringing", "From"=>"+13362545275", "AccountSid"=>"ACb414435a47302ab590ca3665c5f64862", "CalledCountry"=>"US", "CallerCity"=>"GREENSBORO", "Caller"=>"+13362545275", "FromCountry"=>"US", "ToCity"=>"ODENTON", "FromCity"=>"GREENSBORO", "CalledState"=>"MD", "FromZip"=>"27405", "FromState"=>"NC"}
+Can't verify CSRF token authenticity
+  Rendered text template (0.0ms)
+Completed 200 OK in 18ms (Views: 7.3ms)
